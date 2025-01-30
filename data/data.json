@@ -1,0 +1,412 @@
+[
+   {
+      "permit_type": "solar-pv-installation",
+      "documents": [
+         {
+            "text": "Yes, most jurisdictions require a permit to install PV systems to ensure safety and compliance.",
+            "section": "Permit Requirements",
+            "question": "Do I need a permit to install PV?"
+         },
+         {
+            "text": "You typically need an electrical and building permit for PV installations. Check with your local building authority.",
+            "section": "Permit Requirements",
+            "question": "Which permit should I get if I want to install PV?"
+         },
+         {
+            "text": "Some areas allow DIY installations, but most require a licensed electrician for safety compliance.",
+            "section": "Permit Requirements",
+            "question": "Can I install PV myself, or do I need a licensed contractor?"
+         },
+         {
+            "text": "Yes, either you or your installer will need to obtain a permit before installation.",
+            "section": "Permit Requirements",
+            "question": "If I hire someone to install PV, do I need a permit?"
+         },
+         {
+            "text": "Some HOAs have additional requirements, but state and local regulations usually take precedence.",
+            "section": "Permit Requirements",
+            "question": "Does my HOA require a separate permit for solar installation?"
+         },
+         {
+            "text": "Yes, ground-mounted PV systems may require additional zoning and land use permits.",
+            "section": "Permit Requirements",
+            "question": "Is there a different permit for rooftop PV versus ground-mounted PV?"
+         },
+         {
+            "text": "It depends on the lease agreement and local regulations. Landlord approval is typically required.",
+            "section": "Permit Requirements",
+            "question": "Can I install solar panels on a rental property?"
+         },
+         {
+            "text": "The permitting process can take a few days to several weeks, depending on the jurisdiction.",
+            "section": "Permit Requirements",
+            "question": "How long does it take to get a permit for PV installation?"
+         },
+         {
+            "text": "You may face fines, removal orders, or difficulties connecting to the grid.",
+            "section": "Permit Requirements",
+            "question": "What happens if I install PV without a permit?"
+         },
+         {
+            "text": "Yes, most areas require an inspection to verify compliance with safety codes.",
+            "section": "Permit Requirements",
+            "question": "Do I need an inspection after getting a PV permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need to upgrade my electrical panel to get a PV permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install PV on a historic building?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Are there state-specific PV permit requirements?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install second-hand solar panels with a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does a DIY solar kit require a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What documents are needed to apply for a PV permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I apply for a PV permit online?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need a structural engineer\u2019s approval for PV installation?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does installing PV increase my property taxes?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need a separate permit for a solar battery backup?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "If I expand my solar system, do I need a new permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "How much does a solar installation permit cost?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need neighbor approval to install PV?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What zoning laws affect PV permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does my PV permit expire if I don't install it immediately?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I transfer my PV permit if I sell my house?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What happens if my PV permit is denied?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Are there federal guidelines for PV installation permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "If I get an off-grid solar system, do I still need a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install PV panels in a shared building?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need permission from my utility company to install PV?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do PV permits cover both installation and grid connection?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install PV without a licensed electrician?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What environmental regulations apply to PV permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does my city require a specific type of PV mounting?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I add solar panels to a mobile home with a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Are solar panel permits required for agricultural properties?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "If I install solar carports, do I need a special permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "How does net metering impact my PV permit?"
+         }
+      ]
+   },
+   {
+      "permit_type": "heat-pump-installation",
+      "documents": [
+         {
+            "text": "Yes, a mechanical or HVAC permit is usually required to ensure compliance with local codes.",
+            "section": "Permit Requirements",
+            "question": "Do I need a permit to install a heat pump?"
+         },
+         {
+            "text": "In most cases, replacing an old unit requires a permit, especially if electrical or ductwork is involved.",
+            "section": "Permit Requirements",
+            "question": "Is a permit required to replace an old heat pump?"
+         },
+         {
+            "text": "You may need an HVAC permit, and in some cases, an electrical permit for wiring.",
+            "section": "Permit Requirements",
+            "question": "Which permit should I apply for to install a heat pump?"
+         },
+         {
+            "text": "Some regions allow DIY installations, but professional installation is recommended for warranty and compliance.",
+            "section": "Permit Requirements",
+            "question": "Can I install a heat pump without an HVAC technician?"
+         },
+         {
+            "text": "Yes, ground-source systems often require additional environmental and drilling permits.",
+            "section": "Permit Requirements",
+            "question": "Are there different permits for air-source and ground-source heat pumps?"
+         },
+         {
+            "text": "Costs vary by location but typically range from $50 to $300.",
+            "section": "Permit Requirements",
+            "question": "What is the cost of a heat pump permit?"
+         },
+         {
+            "text": "Yes, if the installation involves new wiring or an upgraded circuit breaker.",
+            "section": "Permit Requirements",
+            "question": "Do I need an electrical permit for a heat pump?"
+         },
+         {
+            "text": "Zoning laws and noise regulations may dictate placement.",
+            "section": "Permit Requirements",
+            "question": "Are there restrictions on where I can install a heat pump?"
+         },
+         {
+            "text": "In some cases, HOA approval is required in addition to local permits.",
+            "section": "Permit Requirements",
+            "question": "Does my HOA need to approve my heat pump permit?"
+         },
+         {
+            "text": "Yes, any significant upgrade typically requires a new permit.",
+            "section": "Permit Requirements",
+            "question": "If I upgrade my heat pump, do I need a new permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does a heat pump permit include ductwork installation?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need an inspection after installing a heat pump?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "If I install a heat pump in an apartment, do I need a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What happens if I install a heat pump without a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Are heat pump permits handled by local or state authorities?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need an environmental review for a ground-source heat pump?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I get an expedited permit for heat pump installation?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What are the noise regulations for heat pump permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need separate permits for indoor and outdoor heat pump units?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "How does my home\u2019s energy rating affect my heat pump permit?"
+         }
+      ]
+   },
+   {
+      "permit_type": "battery-powerwall-installation",
+      "documents": [
+         {
+            "text": "Yes, you need an electrical permit to install a Powerwall.",
+            "section": "Permit Requirements",
+            "question": "Do I need a permit to install a Powerwall?"
+         },
+         {
+            "text": "An electrical permit is required, and some areas may require a fire safety review.",
+            "section": "Permit Requirements",
+            "question": "Which permit is required for a battery storage system?"
+         },
+         {
+            "text": "No, unauthorized installations may lead to fines and safety risks.",
+            "section": "Permit Requirements",
+            "question": "Can I install a Powerwall without a permit?"
+         },
+         {
+            "text": "Yes, electrical modifications must comply with local codes.",
+            "section": "Permit Requirements",
+            "question": "Is an electrical permit required for a battery backup system?"
+         },
+         {
+            "text": "Yes, if you plan to connect it to the grid.",
+            "section": "Permit Requirements",
+            "question": "Do I need permission from my utility company to install a Powerwall?"
+         },
+         {
+            "text": "Yes, some jurisdictions have fire safety and ventilation requirements.",
+            "section": "Permit Requirements",
+            "question": "Are there fire safety regulations for battery storage permits?"
+         },
+         {
+            "text": "Approval can take a few days to several weeks depending on location.",
+            "section": "Permit Requirements",
+            "question": "How long does it take to get a Powerwall permit?"
+         },
+         {
+            "text": "It's recommended to notify your insurance provider about the installation.",
+            "section": "Permit Requirements",
+            "question": "Do I need to update my home insurance for a Powerwall permit?"
+         },
+         {
+            "text": "Electrical and fire safety inspections may be required.",
+            "section": "Permit Requirements",
+            "question": "What inspections are required for a battery storage permit?"
+         },
+         {
+            "text": "Usually, a single permit covers the entire system, but requirements vary.",
+            "section": "Permit Requirements",
+            "question": "If I install multiple Powerwalls, do I need multiple permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does my city restrict Powerwall installations?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install a Powerwall in a basement with a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Do I need a structural permit for a wall-mounted Powerwall?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What are the zoning laws for battery storage permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I install a Powerwall in a rental property?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Is a fire department inspection required for battery permits?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "If I expand my Powerwall system, do I need a new permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Can I connect a Powerwall to an off-grid solar system with a permit?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "Does my Powerwall permit include integration with solar panels?"
+         },
+         {
+            "text": "Permit requirements vary by jurisdiction. Check with your local authority.",
+            "section": "Permit Requirements",
+            "question": "What happens if I install a Powerwall without a permit?"
+         }
+      ]
+   }
+]
