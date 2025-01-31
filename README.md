@@ -10,6 +10,13 @@ Ollama model
 
 ElasticSearch
 
+## RAG Workflow
+
+![rag](images/rag.png)
+
+[Image Source: medium.com](https://medium.com/artificial-corner/retrieval-augmented-generation-rag-a-short-introduction-21d0044d65ff)
+
+The original paper: [Link](https://arxiv.org/pdf/2005.11401)
 
 ## Searching with ElasticSearch
 
