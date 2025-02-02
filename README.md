@@ -4,9 +4,9 @@ This project implements a simple LLM and RAG pipeline to gain insights about the
 
 ## Models
 Ollama model
-* Runs LLMs efficiently on a CPU.
-* Supports models like phi3.
-* Compatible with the OpenAI API.
+* Runs LLMs efficiently on a CPU
+* Supports models like phi3
+* Compatible with the OpenAI API
 
 ElasticSearch
 
