@@ -61,4 +61,4 @@ ollama pull phi3
 ## Next step:
 Explore Open-Source LLM Alternatives
 
-Since Ollama works with the OpenAI API (which is expensive), I will looking into using open-source LLMs with a GPU in Saturn Cloud.
+I will looking into using open-source LLMs with a GPU in Saturn Cloud.
