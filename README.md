@@ -19,7 +19,7 @@ ElasticSearch
 The original paper: [Link](https://arxiv.org/pdf/2005.11401)
 
 ## Prompt
-* Task descriptoin: Descript a question and a task for the model
+* Task descriptoin: Descript a task for the model
 * RAG: Providing LLM with a database with domain specific information
 * Input: The input
 * Output: Specifies how the model output will be
