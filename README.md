@@ -60,5 +60,3 @@ ollama pull phi3
 
 ## Next step:
 Explore Open-Source LLM Alternatives
-
-I will looking into using open-source LLMs with a GPU in Saturn Cloud.
