@@ -59,4 +59,4 @@ ollama pull phi3
 ```
 
 ## Next step:
-Explore Open-Source LLM Alternatives
+Evaluation
