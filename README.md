@@ -51,8 +51,8 @@ docker run -it \
 
 Get up and running with LLM
 
+### Linux
 ```bash
-Linux
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
