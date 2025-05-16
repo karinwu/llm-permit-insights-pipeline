@@ -24,6 +24,10 @@ The original paper: [Link](https://arxiv.org/pdf/2005.11401)
 * Input: The input
 * Output: Specifies how the model output will be
 
+## Image
+It is recommended to run this pipeline using Codespaces. It includes runtimes and tools for Python, Node.js, Docker, and more.
+See the full list here: https://aka.ms/ghcs-default-image
+
 ## Searching with ElasticSearch
 
 * Run ElasticSearch with Docker
