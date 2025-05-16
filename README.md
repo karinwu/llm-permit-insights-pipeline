@@ -49,6 +49,13 @@ docker run -it \
 
 ## Search with Ollama
 
+Get up and running with LLM
+
+```bash
+Linux
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
 * Run Docker
 * Pull Ollama phi3
 
