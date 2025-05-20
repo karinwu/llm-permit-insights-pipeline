@@ -71,5 +71,3 @@ ollama pull phi3
 
 ## Evalluation:
 
-## Next step:
-Evaluation
