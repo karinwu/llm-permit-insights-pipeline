@@ -68,6 +68,3 @@ docker exec -it ollama bash
 ```bash
 ollama pull phi3
 ```
-
-## Evalluation:
-
